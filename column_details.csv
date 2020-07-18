@@ -1,0 +1,2 @@
+﻿Teamname,game_win_toss_win_count,game_loose_toss_win_count,TF
+pretty self explanatory,number of tosses won where the outcome was in favour of the team,number of tosses won where the outcome was not in favour of the team,if column 1 values > column 2 values return true else return false
